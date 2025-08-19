@@ -8,8 +8,8 @@
 ## Me chamo João Paulo Da Silva Pereira, tenho 21 anos e estou aprendendo análise de sistema e desenvolvimento 🌸
 
 ## 📚 Formação Acadêmica
-🎓 **Cursando Análise e Desenvolvimento de Sistemas** – Universidade Cruzeiro do Sul  
-📘 Inclui estudos em **Python**, **SQL** e **Inglês**
+🎓 **Cursando Ciência Da Computação** – UNICID  
+📘 Inclui estudos em **Python**, **Java**, **Inglês** e **Back End**
 
 ---
 
@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/English-0A66C2?style=for-the-badge&logo=google-translate&logoColor=white" />
 </p>
 
