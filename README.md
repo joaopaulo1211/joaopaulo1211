@@ -7,7 +7,7 @@
 ---
 ## Me chamo João Paulo Da Silva Pereira, tenho 21 anos e estou Cursando ciência da computação 💻
 
-## 📚 Formação Acadêmica
+## 📚 Formação Acadêmica : Bacharelado 1/8 CCP 💻 
 🎓 **Cursando Ciência Da Computação** – UNICID  
 📘 Inclui estudos em **Python**, **Java Script**, **Inglês** , **SQL** 
 🤓 Foco em aprender em java 
