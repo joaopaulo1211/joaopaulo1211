@@ -62,7 +62,7 @@
 
 <!-- Rodapé -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:1abc9c&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:27ae60&height=120&section=footer"/>
 </p>
 
 ## TRABALHO DE DESIGNER PROFISSIONAL, CÓDIGO : RBQAMVQMZISFU
