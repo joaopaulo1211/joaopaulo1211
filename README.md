@@ -1,7 +1,7 @@
 <!-- Banner -->
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:3498db&height=200&section=header&text=João%20Paulo%20Silva%20Pereira&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:27ae60&height=200&section=header&text=João%20Paulo%20Silva%20Pereira&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
