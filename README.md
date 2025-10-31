@@ -5,7 +5,7 @@
 </p>
 
 ---
-## Me chamo João Paulo Da Silva Pereira, tenho 21 anos e estou aprendendo análise de sistema e desenvolvimento 🌸
+## Me chamo João Paulo Da Silva Pereira, tenho 21 anos e estou Cursando ciência da computação 💻
 
 ## 📚 Formação Acadêmica
 🎓 **Cursando Ciência Da Computação** – UNICID  
