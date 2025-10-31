@@ -9,8 +9,8 @@
 
 ## 📚 Formação Acadêmica
 🎓 **Cursando Ciência Da Computação** – UNICID  
-📘 Inclui estudos em **Python**, **Java Script**, **Inglês** , **Back End** E **SQL** 
-
+📘 Inclui estudos em **Python**, **Java Script**, **Inglês** , **SQL** 
+🤓 Foco em aprender em java 
 ---
 
 ## 💻 Tecnologias em Desenvolvimento
