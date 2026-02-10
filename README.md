@@ -13,7 +13,9 @@
 🤓 Foco em aprender em java 
 ---
 
-## 💻 Tecnologias em Desenvolvimento
+## 💻 Exoeriências
+- C++ (Basico)- HTML5 (Intermediario)
+- CSS3 (Intermediario)- MySQL (Basico)- Python (Intermediari
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
