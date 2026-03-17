@@ -24,7 +24,8 @@
 - JavaScript  
 - Estruturas de dados e lógica de programação  
 - Banco de dados (SQL / MySQL)  
-- Inglês para tecnologia  
+- Inglês para tecnologia
+- Machine Learning
 
 ---
 
