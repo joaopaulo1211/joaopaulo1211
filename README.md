@@ -37,7 +37,8 @@
 - 🌐 HTML5 (Intermediário)  
 - 🎨 CSS3 (Intermediário)  
 - 🗄 MySQL (Básico)  
-- ⚙️ C++ (Básico)  
+- ⚙️ C++ (Básico)
+- 🤖 Machine Learning (Estudando)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
