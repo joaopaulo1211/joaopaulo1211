@@ -26,6 +26,7 @@
 - Banco de dados (SQL / MySQL)  
 - Inglês para tecnologia
 - Machine Learning
+- Algebra Linear
 
 ---
 
