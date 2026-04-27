@@ -1,45 +1,46 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:27ae60&height=200&section=header&text=João%20Paulo%20Silva%20Pereira&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=João%20Paulo%20Silva%20Pereira&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=15&descAlignY=58&descColor=a0c4d8" />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaopauloprofissional/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/joaopaulo1211">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:joaopaulo1211silva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-# 👋 Olá! Eu sou João Paulo Silva Pereira
+<br/>
 
-🎓 Estudante de **Ciência da Computação (UNICID)**  
-💻 Interessado em **desenvolvimento de software, lógica de programação e banco de dados**  
-🚀 Buscando **oportunidade de estágio em tecnologia** para aplicar e desenvolver minhas habilidades.
+## 👨‍💻 Sobre Mim
 
----
+Sou estudante de **Ciência da Computação** na UNICID, atualmente no 2º semestre, com foco em desenvolvimento de software, lógica de programação e banco de dados. Estou em busca da minha **primeira oportunidade de estágio em tecnologia**, onde possa aplicar o que aprendo e continuar crescendo profissionalmente dentro de um ambiente colaborativo.
 
-## 📚 Formação Acadêmica
-
-🎓 **Bacharelado em Ciência da Computação** – UNICID  
-📅 Atualmente no **2º semestre (2/8)**
-
-📘 Durante o curso estou estudando:
-
-- Python  
-- JavaScript  
-- Estruturas de dados e lógica de programação  
-- Banco de dados (SQL / MySQL)  
-- Inglês para tecnologia
-- Machine Learning
-- Algebra Linear
+Tenho interesse especial em **desenvolvimento back-end**, **estruturas de dados** e **banco de dados relacionais**, e estou sempre buscando expandir meu conhecimento técnico por meio de projetos práticos e estudos contínuos.
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 🎓 Formação Acadêmica
 
-**Conhecimentos atuais:**
+| Curso | Instituição | Status |
+|---|---|---|
+| Bacharelado em Ciência da Computação | UNICID | 2º semestre (2/8) — Em andamento |
 
-- 🐍 Python (Intermediário)  
-- 🌐 HTML5 (Intermediário)  
-- 🎨 CSS3 (Intermediário)  
-- 🗄 MySQL (Básico)  
-- ⚙️ C++ (Básico)
-- 🤖 Machine Learning (Estudando)
+**Disciplinas em andamento:**
+- Lógica de Programação e Estruturas de Dados
+- Banco de Dados (SQL / MySQL)
+- Python e JavaScript
+- Álgebra Linear
+- Inglês Técnico para Tecnologia
+- Introdução a Machine Learning
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -47,57 +48,53 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/English-0A66C2?style=for-the-badge&logo=google-translate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+| Tecnologia | Nível |
+|---|---|
+| 🐍 Python | Intermediário |
+| 🌐 HTML5 | Intermediário |
+| 🎨 CSS3 | Intermediário |
+| 🗄️ MySQL | Básico |
+| ⚙️ C++ | Básico |
+| 🔧 Git | Básico |
+| 🤖 Machine Learning | Estudando |
+
 ---
 
-## 🚀 Objetivos Profissionais
+## 🎯 Objetivos
 
-- 📊 Evoluir minhas habilidades em **programação e desenvolvimento de software**
-- 🛠 Desenvolver **projetos práticos para meu portfólio**
-- 📚 Aprender **boas práticas de programação e versionamento com Git**
-- 🌍 Melhorar meu **inglês técnico** para trabalhar em ambientes globais
-- 💼 Conquistar uma **oportunidade de estágio em tecnologia**
+- 💼 Conquistar minha **primeira experiência profissional** por meio de um estágio em tecnologia
+- 🛠️ Desenvolver **projetos práticos** para construir um portfólio sólido
+- 📐 Aprofundar conhecimentos em **algoritmos, estruturas de dados e boas práticas de código**
+- 🌍 Aprimorar o **inglês técnico** para atuar em ambientes multiculturais
+- 📈 Evoluir continuamente como **desenvolvedor de software**
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulo1211&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo1211&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaopaulo1211&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo1211&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 📬 Contato
 
+Estou aberto a oportunidades de estágio, colaborações em projetos e conexões na área de tecnologia. Sinta-se à vontade para entrar em contato!
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaopaulo1211">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/joaopauloprofissional/">
+    <img src="https://img.shields.io/badge/LinkedIn-Joao%20Paulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/joaopaulo1211">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
   <a href="mailto:joaopaulo1211silva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-joaopaulo1211silva%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
-
-## 👀 Contador de Visitas
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaopaulo1211&color=blue&style=flat-square" alt="Contador de Visitas"/>
-</p>
-
----
-
-<!-- Rodapé -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:27ae60&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
